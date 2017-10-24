@@ -1,0 +1,23 @@
+<div class="jumbotron" id="banner">
+  <h1 class="bannertitle">360 BPM</h1>
+  <h4>Keep your heart pumping</h4>
+</div>
+
+<div class="jumbotron" id="podcasts">
+  <div class="container" id="survival">
+    <h1>TOP SONGS of the week</h1>
+    <hr>
+    <div class="row">
+      <% data.songs.each do |letter, song| %>
+      <div class="col-xs-12 col-sm-4" id="cardmagic" >
+        <div class="card text-center" style="background-image: linear-gradient(rgba(250,250,250,0.5), rgba(250,250,250,0.5)), url('<%= image_path song.image %>');">
+          <div class="card-description text-center">
+            <h2><%= song.title %></h2>
+          </div>
+          <%= link_to "#", "songs/#{letter}.html", class: "card-link" %>
+        </div>
+      </div>
+      <% end %>
+    </div>
+  </div>
+</div>

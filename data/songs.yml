@@ -1,0 +1,403 @@
+a:
+  title: Mi Gente
+  genre: Reggaetón
+  artist: J Balvin, Willy William
+  url: "https://open.spotify.com/embed?uri=spotify:track:5CtI0qwDJkDQGwXD1H1cLb"
+  image: migente.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Faaa.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/aaa.html”
+b:
+  title: Despacito Remix
+  genre: Pop Latino, Reggaetón,
+  artist : Luis Fonsi, Daddy Yankee, J.Bieber
+  url: "https://open.spotify.com/embed?uri=spotify:track:1OAh8uOEOvTDqkKFsKksCi"
+  image: despacitoremix.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fbbb.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/bbb.html”
+
+c:
+  title: Wild Thoughts
+  genre: RnB Contemporain, Hip/Hop
+  artist: DJ Khaled, Rihanna, Bryson Tiller
+  url: "https://open.spotify.com/embed?uri=spotify:track:1OAh8uOEOvTDqkKFsKksCi"
+  image: wildthoughts.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fccc.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/ccc.html”
+d:
+  -title: Unforgettable
+  genre: Hip-hop/Rap
+  artist : French Montana, Swae Lee
+  url: "https://open.spotify.com/embed?uri=spotify:track:3B54sVLJ402zGa6Xm4YGNe"
+  image: unforgettable.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fddd.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/ddd.html”
+e:
+  title: Feels
+  genre: Dance
+  artist : Calvin Harris, Pharell Williams, Katy Perry, Big Sean
+  url: "https://open.spotify.com/embed?uri=spotify:track:5bcTCxgc7xVfSaMV3RuVke"
+  image: feels.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Feee.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/eee.html”
+f:
+  title: 2U (Feat. Justin Bieber)
+  genre: Dance
+  artist : David Guetta, J. Bieber
+  url: "https://open.spotify.com/embed?uri=spotify:track:3A7qX2QjDlPnazUsRk5y0M"
+  image: 2U.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Ffff.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/fff.html”
+g:
+  title: Attention
+  genre: Funk, Pop
+  artist : Charlie Puth
+  url: "https://open.spotify.com/embed?uri=spotify:track:4iLqG9SeJSnt0cSPICSjxv"
+  image: attention.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fg.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/g.html”
+h:
+  title: Shape Of You
+  genre: Pop
+  artist : Ed Sheeran
+  url: "https://open.spotify.com/embed?uri=spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+  image: shapeofyou.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fh.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/h.html”
+i:
+  title: I'm The One
+  genre: Hip-hop/Rap, Pop
+  artist : DJ Khaled, J. Bieber, Quavo, Chance The Rapper, Lil Wayne
+  url: "https://open.spotify.com/embed?uri=spotify:track:3DXncPQOG4VBw3QHh3S817"
+  image: imtheone.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fi.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/i.html”
+j:
+  title: New Rules
+  genre: Pop
+  artist : Dua Lipa
+  url: "https://open.spotify.com/embed?uri=spotify:track:2ekn2ttSfGqwhhate0LSR0"
+  image: newrules.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fj.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/j.html”
+k:
+  title: Strip That Down
+  genre: Pop
+  artist : Liam Payne, Quavo
+  url: "https://open.spotify.com/embed?uri=spotify:track:6EpRaXYhGOB3fj4V2uDkMJ"
+  image: stripthatdown.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fk.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/k.html”
+l:
+  title: Thunder
+  genre: Punk Rock,
+  artist : Imagine Dragons
+  url: "https://open.spotify.com/embed?uri=spotify:track:0tKcYR2II1VCQWT79i5NrW"
+  image: imaginedragons.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fl.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/l.html”
+m:
+  title: Mama
+  genre: Dance
+  artist : Jonas Blue, William Singe
+  url: "https://open.spotify.com/embed?uri=spotify:track:0NiXXAI876aGImAd6rTj8w"
+  image: mama.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fm.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/m.html”
+nn:
+  title: Sorry Not Sorry
+  genre: Pop
+  artist : Demi Lovato
+  url: "https://open.spotify.com/embed?uri=spotify:track:25C5CowdsfXld2jJanbiex"
+  image: sorrynot.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fnn.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/nn.html”
+o:
+  title: More than You Know
+  genre: Dance
+  artist : Axwell & Ingrosso
+  url: "https://open.spotify.com/embed?uri=spotify:track:3PEgB3fkiojxms35ntsTgs"
+  image: morethanyouknow.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Foo.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/o.html”
+p:
+  title: Back To You (Feat. Bebe Rexha & Digital Farm Animals)
+  genre: pop
+  artist : Louis Tomlinson
+  url: "https://open.spotify.com/embed?uri=spotify:track:7F9vK8hNFMml4GtHsaXui6"
+  image: backtoyou.jpeg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fp.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/p.html”
+q:
+  title: XO TOUR Llif3
+  genre: Hip-hop/Rap
+  artist : Lil Uzi Vert
+  url: "https://open.spotify.com/embed?uri=spotify:track:2eMwDehkIC1j68U6FA3Eiq"
+  image: xotourlife.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fq.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/q.html”
+r:
+  title: There's Nothing Holdin' Me Back
+  genre: Pop
+  artist : Shawn Mendes
+  url: "https://open.spotify.com/embed?uri=spotify:track:79cuOz3SPQTuFrp8WgftAu"
+  image: shawn.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fr.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/r.html”
+s:
+  title: Glorious (Feat. Skylar  Grey)
+  genre: Alternative/Indé
+  artist : Macklemore
+  url: "https://open.spotify.com/embed?uri=spotify:track:3HVr6jTVwBHBa2flM0eURR"
+  image: glorious.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fs.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/s.html”
+t:
+  title: Me Rehùso
+  genre: Pop Espagnol
+  artist : Danny Ocean
+  url: "https://open.spotify.com/embed?uri=spotify:track:6De0lHrwBfPfrhorm9q1Xl"
+  image: merehuso.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Ft.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/t.html”
+u:
+  title: HUMBLE
+  genre: Hip-hop/Rap
+  artist : Kendrick Lamar
+  url: "https://open.spotify.com/embed?uri=spotify:track:7KXjTSCq5nL1LoYtL7XAwS"
+  image: humble.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fu.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/u.html”
+v:
+  title: Bank Account
+  genre: Hip-hop/Rap
+  artist : 21 savage
+  url: "https://open.spotify.com/embed?uri=spotify:track:5eqK0tbzUPo2SoeZsov04s"
+  image: bankaccount.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fv.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/v.html”
+w:
+  title: There for You
+  genre: Dance, House
+  artist : Martin Garrix, Troye Sivan
+  url: "https://open.spotify.com/embed?uri=spotify:track:6jA8HL9i4QGzsj6fjoxp8Y"
+  image: thereforyou.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fw.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/w.html”
+x:
+  title: Fetish (Feat. Gucci Mane)
+  genre: Pop
+  artist : Selena Gomez
+  url: "https://open.spotify.com/embed?uri=spotify:track:0XLOf9LhyazPX9Ld8jPiUq"
+  image: fetish.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fx.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/x.html”
+yy:
+  title: Something Just Like This
+  genre: Dance
+  artist : The Chainsmokers, Coldplay
+  url: "https://open.spotify.com/embed?uri=spotify:track:6RUKPb4LETWmmr3iAEQktW"
+  image: somethinglikethis.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fyy.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/yy.html”
+z:
+  title: Swalla (Feat. Nicki Minaj & Ty Dolla $ign)
+  genre: Dancehall, pop
+  artist : Jason Derulo
+  url: "https://open.spotify.com/embed?uri=spotify:track:6kex4EBAj0WHXDKZMEJaaF"
+  image: swalla.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fz.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/z.html”
+aa:
+  title: Felices Los 4
+  genre: Reggaetón, R&B/Soul
+  artist : Maluma
+  url: "https://open.spotify.com/embed?uri=spotify:track:0qYTZCo5Bwh1nsUFGZP3zn"
+  image: felices.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Faa.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/aa.html”
+bb:
+  title: Without You (Feat. Sandro Cavazza)
+  genre: House, Dance
+  artist : Avicii
+  url: "https://open.spotify.com/embed?uri=spotify:track:6WbADFqMvR8N5u0BvtsWQE"
+  image: withoutyou.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fbb.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/bb.html”
+cc:
+  title: Your Song
+  genre: Pop
+  artist : Rita Ora
+  url: "https://open.spotify.com/embed?uri=spotify:track:4c2W3VKsOFoIg2SFaO6DY5"
+  image: yoursong.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fcc.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/cc.html”
+dd:
+  title: I Like Me Better
+  genre: Pop
+  artist : Lauv
+  url: "https://open.spotify.com/embed?uri=spotify:track:1wjzFQodRWrPcQ0AnYnvQ9"
+  image: ilikemebetter.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fdd.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/dd.html”
+ee:
+  title: Congratulations
+  genre: Hip-hop/Rap
+  artist : Post Malone, Quavo
+  url: "https://open.spotify.com/embed?uri=spotify:track:3a1lNhkSLSkpJE4MSHpDu9"
+  image: congratulation.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fee.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/ee.html”
+ff:
+  title: Despacito (Featuring Daddy Yankee)
+  genre: Reggaetón, Pop Latino
+  artist : Luis Fonsi
+  url: "https://open.spotify.com/embed?uri=spotify:track:4aWmUDTfIPGksMNLV2rQP2"
+  image: despacito.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fff.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/ff.html”
+gg:
+  title: Believer
+  genre: Pop Rock
+  artist : Imagine Dragons
+  url: "https://open.spotify.com/embed?uri=spotify:track:0CcQNd8CINkwQfe1RDtGV6"
+  image: believer.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fgg.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/gg.html”
+hh:
+  title: Slow Hands
+  genre: Pop
+  artist : Niall Horan
+  url: "https://open.spotify.com/embed?uri=spotify:track:167NczpNbRF7oWakJaY3Hh"
+  image: slowhands.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fhh.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/hh.html”
+ii:
+  title: Know No Better (feat. Travis scott, Quavo, Camila Cabello)
+  genre: Dance
+  artist : Major Lazer
+  url: "https://open.spotify.com/embed?uri=spotify:track:3Ytr1SUCUi6J3L9dRFx5iH"
+  image: knownobetter.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fii.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/ii.html”
+jj:
+  title: Pretty Girl - Cheat Codes X CADE Remix
+  genre: Pop
+  artist : Maggie Lindemann
+  url: "https://open.spotify.com/embed?uri=spotify:track:1NDxZ7cFAo481dtYWdrUnR"
+  image: prettygirl.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fjj.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/jj.html”
+kk:
+  title: Praying
+  genre: Pop
+  artist : Kesha
+  url: "https://open.spotify.com/embed?uri=spotify:track:0jdny0dhgjUwoIp5GkqEaA"
+  image: praying.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fkk.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/kk.html”
+ll:
+  title: That's What I Like
+  genre: Hip/Hop Soul
+  artist : Bruno Mars
+  url: "https://open.spotify.com/embed?uri=spotify:track:0KKkJNfGyhkQ5aFogxQAPU"
+  image: thatswhatilike.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fll.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/ll.html”
+mm:
+  title: Symphony (Feat. Zara Larsson)
+  genre: Dance, Pop
+  artist : Clean Bandit
+  url: "https://open.spotify.com/embed?uri=spotify:track:1x5sYLZiu9r5E43kMlt9f8"
+  image: symphony.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fmm.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/mm.html”
+nnn:
+  title: Una Lady Como Tù
+  genre: Reggaetón
+  artist : Manuel Turizo
+  url: "https://open.spotify.com/embed?uri=spotify:track:7MHN1aCFtLXjownGhvEQlF"
+  image: unalady.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fnnn.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/nnn.html”
+oo:
+  title: Escàpate Conmigo
+  genre: Reggaetón
+  artist : Wisin, Ozuna
+  url: "https://open.spotify.com/embed?uri=spotify:track:2cnKEkpVUSV4wnjQiTWfH6"
+  image: escapate.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Foo.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/oo.html”
+pp:
+  title: Location
+  genre: RnB contemporain, Alternative R&B
+  artist : Khalid
+  url: "https://open.spotify.com/embed?uri=spotify:track:152lZdxL1OR0ZMW6KquMif"
+  image: khalid.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fpp.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/pp.html”
+qq:
+  title: Bonita
+  genre: Pop
+  artist : J Balvin, Jowell & Randy
+  url: "https://open.spotify.com/embed?uri=spotify:track:693iqPOQvhI7PobtR8CC8v"
+  image: bonita.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fqq.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/qq.html”
+rr:
+  title: Redbone
+  genre: R&B/Soul
+  artist : Childish Gambino
+  url: "https://open.spotify.com/embed?uri=spotify:track:3kxfsdsCpFgN412fpnW85Y"
+  image: redbone.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Frr.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/rr.html”
+ss:
+  title: No Promises (Feat. Demi Lovato)
+  genre: Pop
+  artist : Cheat Codes
+  url: "https://open.spotify.com/embed?uri=spotify:track:1louJpMmzEicAn7lzDalPW"
+  image: nopromises.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fss.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/ss.html”
+tt:
+  title: Butterfly Effect
+  genre: Hip-hop/Rap
+  artist : Travis Scott
+  url: "https://open.spotify.com/embed?uri=spotify:track:1yxgsra98r3qAtxqiGZPiX"
+  image: butterfly.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Ftt.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/tt.html”
+uu:
+  title: Stay (with Alessia Cara)
+  genre: Dance, Pop
+  artist : Zedd
+  url: "https://open.spotify.com/embed?uri=spotify:track:0dA2Mk56wEzDgegdC6R17g"
+  image: alessiacara.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fuu.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/uu.html”
+vv:
+  title: Slide
+  genre: Dance
+  artist : Calvin Harris, Frank Ocean, Migos
+  url: "https://open.spotify.com/embed?uri=spotify:track:7tr2za8SQg2CI8EDgrdtNl"
+  image: slide.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fvv.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/vv.html”
+ww:
+  title: Young Dumb & Broke
+  genre: R&B/Soul
+  artist : Khalid
+  url: "https://open.spotify.com/embed?uri=spotify:track:5Z3GHaZ6ec9bsiI5BenrbY"
+  image: youngdumb.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fww.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/ww.html”
+xx:
+  title: Lonely Together (Feat Rita Ora)
+  genre: Dance
+  artist : Avicii
+  url: "https://open.spotify.com/embed?uri=spotify:track:2OALaHcDdKkjYEpAr0Qzab"
+  image: lonely.jpg
+  share: “https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmauricematarwehbe.github.io%2F360_bpm%2Fsongs%2Fxx.html&amp;src=sdkpreparse”
+  data: “https://mauricematarwehbe.github.io/360_bpm/songs/xx.html”
+
+
